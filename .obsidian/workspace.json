@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b46322afdc78bcd6",
+        "id": "795e8b297a2f3d07",
         "type": "tabs",
         "children": [
           {
-            "id": "8d36cccc4b35778a",
+            "id": "e48d83c013204696",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -138,15 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d36cccc4b35778a",
+  "active": "7749d2faff0da2f3",
   "lastOpenFiles": [
+    "New Document texte.txt",
+    "05 - Zoo of References/README.md",
+    "05 - Zoo of References/Tensor Networks.md",
+    "99 - Miscellaneous/Templates/Basic Template.md",
+    "03 - Academia and Industry/README.md",
+    "03 - Academia and Industry/Quantum Companies.md",
+    "03 - Academia and Industry/Summer Schools.md",
+    "03 - Academia and Industry/Conferences.md",
+    "00 - Getting Started/Contacts.md",
+    "04 - Weekly Meetings/2024.md",
+    "README.md",
+    "01 - Compendium of Physics/README.md",
+    "Untitled",
+    "02 - Tools of the Trade",
+    "05 - Contacts",
+    "04 - Weekly Meetings",
+    "03 - Academia and Industry",
+    "00 - Getting Started/Test.md",
+    "01 - Compendium of Physics",
+    "06 - Glossary",
+    "99 - Miscellaneous/Templates",
+    "05 - Zoo of References",
+    "00 - Getting Started",
     "test1/Welcome.md",
     "test/Untitled.md",
-    "quicophy-wiki/test1/Welcome.md",
-    "quicophy-wiki/test1",
-    "quicophy-wiki",
-    "README.md",
-    "test1",
-    "test"
+    "quicophy-wiki/test1/Welcome.md"
   ]
 }
