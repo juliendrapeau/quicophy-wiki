@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "accf8105067fb839",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "test/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "accf8105067fb839",
+  "active": "62bed3a4d180f282",
   "lastOpenFiles": [
-    "README.md",
+    "test1/Welcome.md",
     "test/Untitled.md",
+    "README.md",
     "test1",
-    "test",
-    "Welcome.md"
+    "test"
   ]
 }
