@@ -10,20 +10,17 @@ modification date: 2024-02-07
 **Ising model:** 
 $$H(\sigma) = \sum_{i<j} J_{ij} \sigma_{i} \sigma_{j} - \sum_{i} h_{i} \sigma_{i}$$
 
-**Tropical Algebra:**
-
-```math
+**Tropical Algebra:** 
+$$
 \begin{align}
 x \oplus y &= \max (x,y) \\
 x \otimes y &= x + y \\
 \implies & \text{ Zero element } \to - \infty \\
-\implies & \text{ Multiplicative identity } \to 0 \\
+\implies & \text{ Multiplicative identity } \to 0 
 \end{align}
-```
+$$
 
 **Tropical Tensor Networks:**
-
-
 
 
 ## References
