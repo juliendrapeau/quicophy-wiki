@@ -1,3 +1,4 @@
+# README
 
 - Ajouter les conférences, écoles d'été, compagnies qui reviennent souvent
 - Essayer de faire une liste exhaustive

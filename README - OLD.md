@@ -32,4 +32,4 @@
 -  une seule branche, sauf pour potentiel modifications majeurs (genre création site web)
 - commit directement sauf si gros changements puis veux demander l'avis à quelqu'un.
 - n'hésitez à raise des issues
-
+- Raise issue if you have questions on a subject that is not on the wiki

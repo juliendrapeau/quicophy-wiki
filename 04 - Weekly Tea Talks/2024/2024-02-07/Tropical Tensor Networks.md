@@ -8,19 +8,15 @@ modification date: 2024-02-07
 # Tropical Tensor Networks
 
 **Ising model:** 
-$$
-H(\sigma) = \sum_{i<j} J_{ij} \sigma_{i} \sigma_{j} - \sum_{i} h_{i} \sigma_{i}
-$$
+$$H(\sigma) = \sum_{i<j} J_{ij} \sigma_{i} \sigma_{j} - \sum_{i} h_{i} \sigma_{i}$$
 
 **Tropical Algebra:** 
-$$
-\begin{align}
+$$\begin{align}
 x \oplus y &= \max (x,y) \\
 x \otimes y &= x + y \\
 \implies & \text{ Zero element } \to - \infty \\
 \implies & \text{ Multiplicative identity } \to 0 
-\end{align}
-$$
+\end{align}$$
 
 **Tropical Tensor Networks:**
 
